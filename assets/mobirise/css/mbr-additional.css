@@ -2200,6 +2200,90 @@ section.lazy-placeholder:after {
   padding: 10px;
   border-radius: 10px;
 }
+.cid-sdBVbVO1Pk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f2f2f4;
+}
+.cid-sdBVbVO1Pk .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-sdBVbVO1Pk a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-sdBVbVO1Pk .mbr-section-btn {
+  margin: 0;
+}
+.cid-sdBVbVO1Pk .form-control {
+  box-shadow: none;
+  padding: 1.07em 1.07em;
+  background-color: #f5f5f5;
+  border: 1px solid #e8e8e8;
+  color: #656565;
+  line-height: 1.43;
+  min-height: 3.5em;
+  border-radius: .25rem;
+}
+.cid-sdBVbVO1Pk .form-control:focus,
+.cid-sdBVbVO1Pk .form-control:hover {
+  border: 1px solid #e8e8e8;
+  background-color: #f5f5f5;
+}
+.cid-sdBVbVO1Pk .form-group {
+  margin-bottom: 1rem;
+}
+.cid-sdBVbVO1Pk input::-webkit-input-placeholder,
+.cid-sdBVbVO1Pk textarea::-webkit-input-placeholder {
+  color: #656565;
+}
+.cid-sdBVbVO1Pk input:-moz-placeholder,
+.cid-sdBVbVO1Pk textarea:-moz-placeholder {
+  color: #656565;
+}
+.cid-sdBVbVO1Pk .jq-selectbox li,
+.cid-sdBVbVO1Pk .jq-selectbox li {
+  background-color: #f5f5f5;
+  color: #000000;
+}
+.cid-sdBVbVO1Pk .jq-selectbox li:hover,
+.cid-sdBVbVO1Pk .jq-selectbox li.selected {
+  background-color: #f5f5f5;
+  color: #000000;
+}
+.cid-sdBVbVO1Pk .jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #f5f5f5;
+}
+.cid-sdBVbVO1Pk .jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: #f5f5f5;
+}
+.cid-sdBVbVO1Pk .form-group,
+.cid-sdBVbVO1Pk .mbr-section-btn {
+  padding-left: 7.5px;
+  padding-right: 7.5px;
+}
+@media (min-width: 992px) {
+  .cid-sdBVbVO1Pk .col-auto.mbr-section-btn .btn {
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 100%;
+    margin: 0 !important;
+  }
+}
+@media (min-width: 768px) {
+  .cid-sdBVbVO1Pk .container > .row > .col-md-6:first-child {
+    padding-right: 30px;
+  }
+  .cid-sdBVbVO1Pk .container > .row > .col-md-6:last-child {
+    padding-left: 30px;
+  }
+}
+@media (max-width: 499px) {
+  .cid-sdBVbVO1Pk .form-block {
+    padding: 1rem;
+  }
+}
 .cid-sdBB2ahUDY {
   padding-top: 30px;
   padding-bottom: 30px;
